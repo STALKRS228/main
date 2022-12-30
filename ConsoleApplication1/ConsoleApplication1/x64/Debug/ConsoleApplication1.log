@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00CE", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00E1", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00EC", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00E5", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00ED", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00E7", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00E0", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00F7", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00E8", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,10): warning C4566: символ, представленный универсальным именем символа "\u00E9", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14): error C4700: использована неинициализированная локальная переменная "a"
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(10): error C4716: f: должна возвращать значение
+C:\Users\Вася\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16): error C4700: использована неинициализированная локальная переменная "b"
